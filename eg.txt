@@ -1,1 +1,3 @@
 print('priya is doing great')
+
+print('Life is all positive')
